@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=palette
+Exec=./qtc_device_debughelper.py app "qmlscene $@ Main.qml"
+Icon=palette.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

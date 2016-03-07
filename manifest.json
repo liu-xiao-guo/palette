@@ -1,0 +1,17 @@
+{
+    "name": "palette.liu-xiao-guo",
+    "description": "description of palette",
+    "architecture": "all",
+    "title": "palette",
+    "hooks": {
+        "palette": {
+            "apparmor": "palette.apparmor",
+            "desktop":  "palette.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
